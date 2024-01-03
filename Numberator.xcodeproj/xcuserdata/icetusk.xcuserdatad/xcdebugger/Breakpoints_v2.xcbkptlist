@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2D5F57F0-82ED-4F61-9ED4-1A62AA4B9B06"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FAB3B34F-B547-471C-A860-2A888DF8D622"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Numberator/Model/Model.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "save()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "09EF00B8-3C7D-4257-B250-F11B38496A99"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Numberator/Cells/CheckboxCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "switchValueChanged()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2E1C0DD1-78BA-423E-8DB9-6D4B77049C2B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Numberator/View Controllers/SettingsVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "setEditing(_:animated:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2E1C0DD1-78BA-423E-8DB9-6D4B77049C2B - 30063d415b5541e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Numberator.SettingsVC.setEditing(_: Swift.Bool, animated: Swift.Bool) -&gt; ()"
+                  moduleName = "Numberator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/icetusk/Projects/Numberator/Numberator/View%20Controllers/SettingsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "2E1C0DD1-78BA-423E-8DB9-6D4B77049C2B - 30063d415b553fd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Numberator.SettingsVC.setEditing(_: Swift.Bool, animated: Swift.Bool) -&gt; ()"
+                  moduleName = "Numberator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/icetusk/Projects/Numberator/Numberator/View%20Controllers/SettingsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9A7E31EA-38C4-4F89-90D6-42FFC71C3038"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Numberator/View Controllers/QuizVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "viewDidAppear(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9A7E31EA-38C4-4F89-90D6-42FFC71C3038 - 98a015a0c31ffc4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Numberator.QuizVC.viewDidAppear(Swift.Bool) -&gt; ()"
+                  moduleName = "Numberator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/icetusk/Projects/Numberator/Numberator/View%20Controllers/QuizVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "9A7E31EA-38C4-4F89-90D6-42FFC71C3038 - 98a015a0c31ffc4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Numberator.QuizVC.viewDidAppear(Swift.Bool) -&gt; ()"
+                  moduleName = "Numberator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/icetusk/Projects/Numberator/Numberator/View%20Controllers/QuizVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "76">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
