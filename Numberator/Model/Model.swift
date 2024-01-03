@@ -30,7 +30,7 @@ class LessonsModel {
     static let shared = LessonsModel()
     public var quizes: [Quiz]
     
-    public init() {
+    private init() {
         _ = UserDefaultsManager.retrieve([Quiz].self, forKey: "Lessons")
         if let data = UserDefaultsManager.retrieve([Quiz].self, forKey: "Lessons") {
             quizes = data

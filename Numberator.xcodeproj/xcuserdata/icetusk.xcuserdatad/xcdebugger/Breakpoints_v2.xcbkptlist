@@ -88,48 +88,16 @@
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "9A7E31EA-38C4-4F89-90D6-42FFC71C3038"
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Numberator/View Controllers/QuizVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "45"
-            endingLineNumber = "45"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
             landmarkName = "viewDidAppear(_:)"
             landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "9A7E31EA-38C4-4F89-90D6-42FFC71C3038 - 98a015a0c31ffc4"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "Numberator.QuizVC.viewDidAppear(Swift.Bool) -&gt; ()"
-                  moduleName = "Numberator"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/icetusk/Projects/Numberator/Numberator/View%20Controllers/QuizVC.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "45"
-                  endingLineNumber = "45"
-                  offsetFromSymbolStart = "84">
-               </Location>
-               <Location
-                  uuid = "9A7E31EA-38C4-4F89-90D6-42FFC71C3038 - 98a015a0c31ffc4"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "Numberator.QuizVC.viewDidAppear(Swift.Bool) -&gt; ()"
-                  moduleName = "Numberator"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/icetusk/Projects/Numberator/Numberator/View%20Controllers/QuizVC.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "45"
-                  endingLineNumber = "45"
-                  offsetFromSymbolStart = "76">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

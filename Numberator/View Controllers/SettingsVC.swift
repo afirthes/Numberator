@@ -5,7 +5,7 @@ class SettingsVC: UIViewController {
     let tableView = UITableView()
     
     init() {
-        self.model = LessonsModel()
+        self.model = LessonsModel.shared
         super.init(nibName: nil, bundle: nil)
     }
     

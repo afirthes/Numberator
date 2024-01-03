@@ -17,7 +17,7 @@ class QuizVC: UIViewController {
     let model: LessonsModel
     
     init() {
-        model = LessonsModel()
+        model = LessonsModel.shared
         super.init(nibName: nil, bundle: nil)
         next()
     }
@@ -36,17 +36,24 @@ class QuizVC: UIViewController {
                     currentIndex += 1
         }
         
+        setupUI()
+        
+    }
+    
+    private func setupUI() {
         multiplyQuestion.text = "\(quiz.firstNumber) x \(quiz.secondNumber)"
         multiplyAnswer.text = "\(quiz.firstNumber * quiz.secondNumber)"
         multiplyAnswer.isHidden = true
     }
     
     override func viewDidAppear(_ animated: Bool) {
+        super.viewDidAppear(animated)
         self.currentIndex = 0
         while model.quizes[self.currentIndex].answered {
-            print(currentIndex)
             self.currentIndex += 1
         }
+        
+        setupUI()
     }
     
     
